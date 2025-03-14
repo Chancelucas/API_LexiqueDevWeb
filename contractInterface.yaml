@@ -1,0 +1,36 @@
+openapi: 3.0.0
+info:
+  title: Lexique API
+  version: 1.0.0
+  description: API pour gérer le lexique de termes utilisés dans le développement web.
+paths:
+  /categories:
+    get:
+      summary: Récupérer toutes les catégories
+      responses:
+        '200':
+          description: Liste des catégories
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Categorie'
+components:
+  schemas:
+    Categorie:
+      type: object
+      properties:
+        nom:
+          type: string
+        termes:
+          type: array
+          items:
+            $ref: '#/components/schemas/Terme'
+    Terme:
+      type: object
+      properties:
+        terme:
+          type: string
+        definition:
+          type: string
