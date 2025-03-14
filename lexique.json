@@ -394,5 +394,65 @@
   {
     "terme": "WAP",
     "definition": "Wireless Access Protocol : Protocole de services et d’accès à Internet sur les terminaux mobiles."
+  },
+  {
+    "terme": "GraphQL",
+    "definition": "Langage de requête pour les API et environnement d'exécution pour exécuter ces requêtes en utilisant un système de types pour définir la capacité de ces requêtes."
+  },
+  {
+    "terme": "Docker",
+    "definition": "Plateforme permettant de développer, déployer et exécuter des applications dans des conteneurs, facilitant ainsi la portabilité et la gestion des environnements."
+  },
+  {
+    "terme": "Microservices",
+    "definition": "Architecture logicielle où une application est composée de petits services indépendants qui communiquent entre eux, souvent via des API."
+  },
+  {
+    "terme": "CI/CD",
+    "definition": "Continuous Integration/Continuous Deployment : Pratiques visant à automatiser les étapes de l'intégration, des tests et du déploiement du code pour améliorer la qualité et la rapidité de livraison."
+  },
+  {
+    "terme": "TypeScript",
+    "definition": "Sur-ensemble typé de JavaScript qui ajoute des types statiques optionnels, permettant de détecter les erreurs lors de la compilation."
+  },
+  {
+    "terme": "WebAssembly",
+    "definition": "Format binaire portable qui permet d'exécuter du code à des vitesses proches de celles des applications natives dans les navigateurs web modernes."
+  },
+  {
+    "terme": "Progressive Web App (PWA)",
+    "definition": "Application web qui utilise des technologies modernes pour offrir une expérience utilisateur similaire à celle des applications natives, avec des fonctionnalités comme le mode hors ligne et les notifications push."
+  },
+  {
+    "terme": "Serverless",
+    "definition": "Architecture où les fonctions ou services sont exécutés sur des plateformes cloud sans avoir à gérer les serveurs sous-jacents."
+  },
+  {
+    "terme": "OAuth",
+    "definition": "Protocole d'autorisation permettant à une application d'accéder aux ressources d'un utilisateur sur un serveur sans partager les informations d'identification."
+  },
+  {
+    "terme": "Service Worker",
+    "definition": "Script exécuté en arrière-plan par le navigateur, indépendamment de la page web, permettant des fonctionnalités comme le cache hors ligne et les notifications push."
+  },
+  {
+    "terme": "Polyfill",
+    "definition": "Code qui permet d'ajouter des fonctionnalités modernes aux navigateurs plus anciens qui ne les supportent pas nativement."
+  },
+  {
+    "terme": "Lazy Loading",
+    "definition": "Technique consistant à différer le chargement des ressources non essentielles jusqu'à ce qu'elles soient nécessaires, améliorant ainsi les performances de chargement de la page."
+  },
+  {
+    "terme": "Code Splitting",
+    "definition": "Technique de division du code en plusieurs bundles pour améliorer les temps de chargement en ne chargeant que le code nécessaire."
+  },
+  {
+    "terme": "Headless CMS",
+    "definition": "Système de gestion de contenu qui fournit uniquement un backend pour gérer le contenu, sans frontend, permettant ainsi de servir le contenu via des API à différentes plateformes."
+  },
+  {
+    "terme": "SSR (Server-Side Rendering)",
+    "definition": "Technique où le serveur génère le HTML de la page avant de l'envoyer au client, améliorant le SEO et les performances initiales de chargement."
   }
 ]
