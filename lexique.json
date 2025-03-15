@@ -1,7 +1,7 @@
 {
   "categories": [
     {
-      "nom": "Langages",
+      "nom": "Langages & Frameworks",
       "termes": [
         {
           "terme": "HTML",
@@ -26,6 +26,158 @@
         {
           "terme": "NoSQL",
           "definition": "Type de base de données non relationnelle, utilisé pour traiter de grandes quantités de données non structurées."
+        },
+        {
+          "terme": "Python",
+          "definition": "Langage de programmation interprété, connu pour sa syntaxe claire et sa lisibilité."
+        },
+        {
+          "terme": "Ruby",
+          "definition": "Langage de programmation dynamique et open-source, axé sur la simplicité et la productivité."
+        },
+        {
+          "terme": "PHP",
+          "definition": "Langage de script côté serveur conçu pour le développement web."
+        },
+        {
+          "terme": "Java",
+          "definition": "Langage de programmation orienté objet, utilisé pour développer des applications multiplateformes."
+        },
+        {
+          "terme": "C#",
+          "definition": "Langage de programmation orienté objet développé par Microsoft, utilisé pour le développement de diverses applications."
+        },
+        {
+          "terme": "Go",
+          "definition": "Langage de programmation statiquement typé et compilé, conçu par Google."
+        },
+        {
+          "terme": "Rust",
+          "definition": "Langage de programmation système, axé sur la sécurité et la performance."
+        },
+        {
+          "terme": "Swift",
+          "definition": "Langage de programmation développé par Apple, utilisé pour développer des applications iOS et macOS."
+        },
+        {
+          "terme": "Kotlin",
+          "definition": "Langage de programmation statiquement typé, utilisé principalement pour le développement Android."
+        },
+        {
+          "terme": "Dart",
+          "definition": "Langage de programmation développé par Google, utilisé principalement pour développer des applications Flutter."
+        },
+        {
+          "terme": "Scala",
+          "definition": "Langage de programmation qui intègre des concepts de programmation orientée objet et fonctionnelle."
+        },
+        {
+          "terme": "Perl",
+          "definition": "Langage de programmation polyvalent, utilisé pour l'administration système, le développement web, et plus encore."
+        },
+        {
+          "terme": "R",
+          "definition": "Langage de programmation et environnement logiciel pour les statistiques et l'analyse de données."
+        },
+        {
+          "terme": "Elixir",
+          "definition": "Langage de programmation fonctionnel, conçu pour créer des applications évolutives et maintenables."
+        },
+        {
+          "terme": "Clojure",
+          "definition": "Langage de programmation fonctionnel, dialecte du Lisp, conçu pour la programmation concurrente."
+        },
+        {
+          "terme": "Haskell",
+          "definition": "Langage de programmation fonctionnel, connu pour son système de types avancé."
+        },
+        {
+          "terme": "Lua",
+          "definition": "Langage de script léger, utilisé principalement pour les applications embarquées et les jeux."
+        },
+        {
+          "terme": "WebAssembly",
+          "definition": "Format d'instructions binaire permettant d'exécuter du code natif dans les navigateurs web avec des performances proches du natif."
+        },
+        {
+          "terme": "Svelte",
+          "definition": "Framework JavaScript pour construire des interfaces utilisateur réactives, compilant le code en JavaScript pur au moment de la construction."
+        },
+        {
+          "terme": "Tailwind CSS",
+          "definition": "Framework CSS utilitaire qui permet de créer des interfaces utilisateur rapidement en utilisant des classes utilitaires."
+        },
+        {
+          "terme": "Next.js",
+          "definition": "Framework React pour le rendu côté serveur et la génération de sites statiques."
+        },
+        {
+          "terme": "Nuxt.js",
+          "definition": "Framework basé sur Vue.js pour le rendu côté serveur et la génération de sites statiques."
+        },
+        {
+          "terme": "Vite",
+          "definition": "Outil de build rapide pour les projets web modernes, offrant un serveur de développement rapide et une compilation optimisée."
+        },
+        {
+          "terme": "Angular",
+          "definition": "Framework de développement web open-source basé sur TypeScript, maintenu par Google."
+        },
+        {
+          "terme": "Vue.js",
+          "definition": "Framework JavaScript progressif pour construire des interfaces utilisateur."
+        },
+        {
+          "terme": "Ember.js",
+          "definition": "Framework JavaScript open-source pour créer des applications web ambitieuses."
+        },
+        {
+          "terme": "Backbone.js",
+          "definition": "Framework JavaScript léger pour structurer des applications web en utilisant des modèles avec des liaisons clé-valeur."
+        },
+        {
+          "terme": "Laravel",
+          "definition": "Framework PHP open-source pour le développement d'applications web suivant le modèle MVC."
+        },
+        {
+          "terme": "Symfony",
+          "definition": "Framework PHP pour le développement d'applications web et de services web."
+        },
+        {
+          "terme": "Django",
+          "definition": "Framework web Python de haut niveau qui encourage le développement rapide et une conception propre et pragmatique."
+        },
+        {
+          "terme": "Flask",
+          "definition": "Micro-framework web en Python, léger et modulaire."
+        },
+        {
+          "terme": "Ruby on Rails",
+          "definition": "Framework web écrit en Ruby, suivant le modèle MVC."
+        },
+        {
+          "terme": "Spring",
+          "definition": "Framework Java pour le développement d'applications d'entreprise."
+        },
+        {
+          "terme": "ASP.NET",
+          "definition": "Framework web développé par Microsoft pour construire des applications web dynamiques."
+        },
+        {
+          "terme": "Express.js",
+          "definition": "Framework web minimaliste pour Node.js, utilisé pour construire des applications web et des API."
+        },
+        {
+          "terme": "Meteor",
+          "definition": "Framework JavaScript full-stack pour construire des applications web et mobiles en temps réel."
+        },
+        {
+          "terme": "Sails.js",
+          "definition": "Framework MVC pour Node.js, conçu pour construire des applications web et des API."
+        },
+        {
+          "terme": "Phoenix",
+          "definition": "Framework web écrit en Elixir, conçu pour des applications hautement performantes et évolutives."
         }
       ]
     },
@@ -47,6 +199,38 @@
         {
           "terme": "GraphQL",
           "definition": "Langage de requête pour les API et environnement d'exécution pour exécuter ces requêtes en utilisant un système de types pour définir la capacité de ces requêtes."
+        },
+        {
+          "terme": "SOAP",
+          "definition": "Simple Object Access Protocol : Protocole de communication pour les services web utilisant XML pour l'échange de messages."
+        },
+        {
+          "terme": "gRPC",
+          "definition": "Framework RPC (Remote Procedure Call) open-source développé par Google, utilisant HTTP/2 pour le transport et Protocol Buffers pour la sérialisation des messages."
+        },
+        {
+          "terme": "OpenAPI",
+          "definition": "Spécification pour définir des interfaces d'API RESTful, permettant de générer automatiquement de la documentation, des clients et des serveurs."
+        },
+        {
+          "terme": "OAuth",
+          "definition": "Protocole d'autorisation permettant à une application d'accéder aux ressources d'un utilisateur sur un serveur sans partager les informations d'identification."
+        },
+        {
+          "terme": "JWT",
+          "definition": "JSON Web Token : Format sécurisé pour transmettre des informations entre client et serveur."
+        },
+        {
+          "terme": "Rate Limiting",
+          "definition": "Technique utilisée pour contrôler le nombre de requêtes qu'un client peut envoyer à une API dans un certain laps de temps."
+        },
+        {
+          "terme": "API Gateway",
+          "definition": "Serveur qui agit comme un point d'entrée unique pour un ensemble d'API, gérant les demandes, l'authentification, la surveillance et d'autres services."
+        },
+        {
+          "terme": "Webhooks",
+          "definition": "Mécanisme permettant à une application de fournir des informations en temps réel à d'autres applications via des requêtes HTTP."
         }
       ]
     },
@@ -76,6 +260,18 @@
         {
           "terme": "PATCH",
           "definition": "Méthode HTTP utilisée pour modifier partiellement une ressource."
+        },
+        {
+          "terme": "OPTIONS",
+          "definition": "Méthode HTTP utilisée pour décrire les options de communication pour la ressource cible."
+        },
+        {
+          "terme": "CONNECT",
+          "definition": "Méthode HTTP utilisée pour établir un tunnel vers le serveur identifié par la ressource cible."
+        },
+        {
+          "terme": "TRACE",
+          "definition": "Méthode HTTP utilisée pour effectuer un test de boucle de retour de message le long du chemin vers la ressource cible."
         }
       ]
     },
@@ -125,11 +321,43 @@
         {
           "terme": "OAuth",
           "definition": "Protocole d'autorisation permettant à une application d'accéder aux ressources d'un utilisateur sur un serveur sans partager les informations d'identification."
+        },
+        {
+          "terme": "2FA",
+          "definition": "Two-Factor Authentication : Méthode de sécurité nécessitant deux formes d'identification pour accéder à une ressource."
+        },
+        {
+          "terme": "Brute Force",
+          "definition": "Attaque consistant à essayer toutes les combinaisons possibles pour trouver un mot de passe."
+        },
+        {
+          "terme": "Phishing",
+          "definition": "Technique de fraude visant à obtenir des informations sensibles en se faisant passer pour une entité de confiance."
+        },
+        {
+          "terme": "Malware",
+          "definition": "Logiciel malveillant conçu pour endommager ou perturber un système informatique."
+        },
+        {
+          "terme": "Firewall",
+          "definition": "Système de sécurité réseau qui surveille et contrôle le trafic réseau entrant et sortant en fonction de règles de sécurité prédéfinies."
+        },
+        {
+          "terme": "DDoS",
+          "definition": "Distributed Denial of Service : Attaque visant à rendre un service indisponible en le submergeant de trafic provenant de multiples sources."
+        },
+        {
+          "terme": "Zero-Day",
+          "definition": "Vulnérabilité logicielle inconnue des développeurs du logiciel et exploitée par des attaquants avant qu'un correctif ne soit disponible."
+        },
+        {
+          "terme": "Penetration Testing",
+          "definition": "Test de sécurité consistant à simuler une attaque sur un système pour identifier les vulnérabilités."
         }
       ]
     },
     {
-      "nom": "Outils et Frameworks",
+      "nom": "Outils",
       "termes": [
         {
           "terme": "Git",
@@ -140,28 +368,24 @@
           "definition": "Plateforme d'hébergement de code Git avec collaboration en ligne."
         },
         {
-          "terme": "Framework",
-          "definition": "Ensemble d'outils facilitant le développement (ex : Laravel, React, Symfony)."
+          "terme": "GitLab",
+          "definition": "Plateforme de gestion de code source basée sur Git, avec des fonctionnalités CI/CD intégrées."
         },
         {
-          "terme": "CMS",
-          "definition": "Content Management System : Système de gestion de contenu permettant de créer et gérer un site web sans connaissances approfondies en développement (ex : WordPress)."
+          "terme": "Bitbucket",
+          "definition": "Service d'hébergement de code source basé sur Git et Mercurial, avec des fonctionnalités CI/CD."
         },
         {
-          "terme": "CDN",
-          "definition": "Content Delivery Network : Réseau de serveurs pour accélérer la diffusion de contenu."
+          "terme": "Jenkins",
+          "definition": "Serveur d'intégration continue open-source permettant d'automatiser les tâches de développement."
         },
         {
-          "terme": "Node.js",
-          "definition": "Environnement d'exécution JavaScript côté serveur."
+          "terme": "Travis CI",
+          "definition": "Service d'intégration continue utilisé pour construire et tester des projets hébergés sur GitHub."
         },
         {
-          "terme": "React",
-          "definition": "Bibliothèque JavaScript pour créer des interfaces utilisateur interactives (SPA)."
-        },
-        {
-          "terme": "SPA",
-          "definition": "Single Page Application : Application web chargée sur une seule page HTML."
+          "terme": "CircleCI",
+          "definition": "Plateforme d'intégration et de livraison continues pour automatiser les pipelines de développement."
         },
         {
           "terme": "Docker",
@@ -170,6 +394,18 @@
         {
           "terme": "Kubernetes",
           "definition": "Système open-source pour automatiser le déploiement, la mise à l'échelle et la gestion des applications conteneurisées."
+        },
+        {
+          "terme": "Ansible",
+          "definition": "Outil open-source de gestion de configuration et d'automatisation des tâches."
+        },
+        {
+          "terme": "Terraform",
+          "definition": "Outil d'infrastructure as code permettant de définir et de provisionner des ressources d'infrastructure."
+        },
+        {
+          "terme": "Vagrant",
+          "definition": "Outil de gestion de machines virtuelles pour automatiser la configuration des environnements de développement."
         },
         {
           "terme": "Webpack",
@@ -186,6 +422,254 @@
         {
           "terme": "Prettier",
           "definition": "Formateur de code qui permet de maintenir un style de code cohérent en formatant automatiquement le code."
+        },
+        {
+          "terme": "Postman",
+          "definition": "Outil permettant de tester les API en envoyant des requêtes HTTP et en visualisant les réponses."
+        },
+        {
+          "terme": "Swagger",
+          "definition": "Framework pour concevoir, construire, documenter et consommer des API RESTful."
+        },
+        {
+          "terme": "Fiddler",
+          "definition": "Proxy de débogage web permettant de surveiller, inspecter et modifier le trafic HTTP/HTTPS."
+        },
+        {
+          "terme": "JIRA",
+          "definition": "Outil de gestion de projet et de suivi des bugs développé par Atlassian."
+        },
+        {
+          "terme": "Trello",
+          "definition": "Outil de gestion de projet visuel utilisant des tableaux, des listes et des cartes pour organiser les tâches."
+        },
+        {
+          "terme": "Asana",
+          "definition": "Outil de gestion de projet permettant de suivre le travail des équipes et de collaborer efficacement."
+        },
+        {
+          "terme": "Slack",
+          "definition": "Plateforme de communication et de collaboration pour les équipes."
+        },
+        {
+          "terme": "Microsoft Teams",
+          "definition": "Plateforme de collaboration et de communication développée par Microsoft."
+        },
+        {
+          "terme": "Zoom",
+          "definition": "Outil de visioconférence et de communication en ligne."
+        },
+        {
+          "terme": "VS Code",
+          "definition": "Éditeur de code source open-source développé par Microsoft, avec de nombreuses extensions pour le développement."
+        },
+        {
+          "terme": "Sublime Text",
+          "definition": "Éditeur de texte sophistiqué pour le code, le balisage et la prose."
+        },
+        {
+          "terme": "Atom",
+          "definition": "Éditeur de texte open-source développé par GitHub, personnalisable et extensible."
+        },
+        {
+          "terme": "IntelliJ IDEA",
+          "definition": "Environnement de développement intégré (IDE) pour le développement Java, avec support pour d'autres langages."
+        },
+        {
+          "terme": "PyCharm",
+          "definition": "IDE pour le développement Python, développé par JetBrains."
+        },
+        {
+          "terme": "WebStorm",
+          "definition": "IDE pour le développement JavaScript, développé par JetBrains."
+        },
+        {
+          "terme": "Xcode",
+          "definition": "IDE pour le développement d'applications iOS et macOS, développé par Apple."
+        },
+        {
+          "terme": "Android Studio",
+          "definition": "IDE pour le développement d'applications Android, développé par Google."
+        },
+        {
+          "terme": "Figma",
+          "definition": "Outil de conception d'interface utilisateur et de prototypage collaboratif."
+        },
+        {
+          "terme": "Sketch",
+          "definition": "Outil de conception d'interface utilisateur pour macOS."
+        },
+        {
+          "terme": "Adobe XD",
+          "definition": "Outil de conception d'interface utilisateur et de prototypage développé par Adobe."
+        },
+        {
+          "terme": "InVision",
+          "definition": "Outil de prototypage et de collaboration pour les équipes de conception."
+        },
+        {
+          "terme": "Zeplin",
+          "definition": "Outil de collaboration entre les designers et les développeurs pour partager les spécifications de conception."
+        },
+        {
+          "terme": "Miro",
+          "definition": "Tableau blanc en ligne pour la collaboration et le brainstorming."
+        },
+        {
+          "terme": "Lucidchart",
+          "definition": "Outil de création de diagrammes et de visualisation de données."
+        },
+        {
+          "terme": "Draw.io",
+          "definition": "Outil de création de diagrammes en ligne, intégré à Google Drive."
+        },
+        {
+          "terme": "Notion",
+          "definition": "Outil de prise de notes et de gestion de projet tout-en-un."
+        },
+        {
+          "terme": "Evernote",
+          "definition": "Application de prise de notes et d'organisation personnelle."
+        },
+        {
+          "terme": "Confluence",
+          "definition": "Outil de collaboration et de documentation développé par Atlassian."
+        },
+        {
+          "terme": "Maven",
+          "definition": "Outil de gestion de projet et de compréhension développé par Apache, principalement utilisé pour les projets Java."
+        },
+        {
+          "terme": "Gradle",
+          "definition": "Outil de build open-source flexible, principalement utilisé pour les projets Java."
+        },
+        {
+          "terme": "Ant",
+          "definition": "Outil de build Java développé par Apache."
+        },
+        {
+          "terme": "NPM",
+          "definition": "Node Package Manager : Gestionnaire de paquets JavaScript (bibliothèques, outils, etc.)."
+        },
+        {
+          "terme": "Yarn",
+          "definition": "Gestionnaire de paquets JavaScript rapide, sécurisé et fiable, développé par Facebook."
+        },
+        {
+          "terme": "pnpm",
+          "definition": "Gestionnaire de paquets JavaScript performant et efficace en termes d'espace disque."
+        },
+        {
+          "terme": "Homebrew",
+          "definition": "Gestionnaire de paquets pour macOS, permettant d'installer facilement des logiciels."
+        },
+        {
+          "terme": "Chocolatey",
+          "definition": "Gestionnaire de paquets pour Windows, permettant d'installer facilement des logiciels."
+        },
+        {
+          "terme": "Vim",
+          "definition": "Éditeur de texte hautement configurable, populaire parmi les développeurs."
+        },
+        {
+          "terme": "Emacs",
+          "definition": "Éditeur de texte extensible et personnalisable, populaire parmi les développeurs."
+        },
+        {
+          "terme": "Zsh",
+          "definition": "Shell Unix étendu avec de nombreuses fonctionnalités avancées."
+        },
+        {
+          "terme": "Oh My Zsh",
+          "definition": "Framework open-source pour gérer la configuration de Zsh."
+        },
+        {
+          "terme": "tmux",
+          "definition": "Multiplexeur de terminal permettant de diviser un terminal en plusieurs sessions."
+        },
+        {
+          "terme": "Screen",
+          "definition": "Multiplexeur de terminal permettant de diviser un terminal en plusieurs sessions."
+        },
+        {
+          "terme": "Ansible",
+          "definition": "Outil open-source de gestion de configuration et d'automatisation des tâches."
+        },
+        {
+          "terme": "Chef",
+          "definition": "Outil de gestion de configuration pour automatiser le déploiement d'applications et l'infrastructure."
+        },
+        {
+          "terme": "Puppet",
+          "definition": "Outil de gestion de configuration pour automatiser le déploiement d'applications et l'infrastructure."
+        },
+        {
+          "terme": "SaltStack",
+          "definition": "Outil de gestion de configuration et d'automatisation des tâches."
+        },
+        {
+          "terme": "Nagios",
+          "definition": "Outil de surveillance des systèmes, des réseaux et de l'infrastructure."
+        },
+        {
+          "terme": "Prometheus",
+          "definition": "Système de surveillance et d'alerte open-source, conçu pour la fiabilité."
+        },
+        {
+          "terme": "Grafana",
+          "definition": "Outil open-source de visualisation et de surveillance des données."
+        },
+        {
+          "terme": "Splunk",
+          "definition": "Plateforme pour la recherche, la surveillance et l'analyse des données machine."
+        },
+        {
+          "terme": "ELK Stack",
+          "definition": "Ensemble d'outils (Elasticsearch, Logstash, Kibana) pour la recherche, l'analyse et la visualisation des données."
+        },
+        {
+          "terme": "Graylog",
+          "definition": "Plateforme open-source pour la gestion des journaux et l'analyse des données."
+        },
+        {
+          "terme": "New Relic",
+          "definition": "Plateforme de surveillance des performances des applications et de l'infrastructure."
+        },
+        {
+          "terme": "Datadog",
+          "definition": "Plateforme de surveillance et d'analyse des performances des applications et de l'infrastructure."
+        },
+        {
+          "terme": "Sentry",
+          "definition": "Outil de surveillance des erreurs et des performances des applications."
+        },
+        {
+          "terme": "Rollbar",
+          "definition": "Outil de surveillance des erreurs et des performances des applications."
+        },
+        {
+          "terme": "Airbrake",
+          "definition": "Outil de surveillance des erreurs et des performances des applications."
+        },
+        {
+          "terme": "Raygun",
+          "definition": "Outil de surveillance des erreurs et des performances des applications."
+        },
+        {
+          "terme": "LogRocket",
+          "definition": "Outil de surveillance des erreurs et des performances des applications front-end."
+        },
+        {
+          "terme": "Papertrail",
+          "definition": "Service de gestion des journaux et de surveillance des événements."
+        },
+        {
+          "terme": "Loggly",
+          "definition": "Service de gestion des journaux et de surveillance des événements."
+        },
+        {
+          "terme": "Sumo Logic",
+          "definition": "Service de gestion des journaux et de surveillance des événements."
         }
       ]
     },
@@ -211,6 +695,90 @@
         {
           "terme": "Selenium",
           "definition": "Outil pour automatiser les tests des applications web à travers différents navigateurs."
+        },
+        {
+          "terme": "Jasmine",
+          "definition": "Framework de test comportemental pour JavaScript, sans dépendance à un navigateur ou à un environnement DOM."
+        },
+        {
+          "terme": "Karma",
+          "definition": "Outil de test pour JavaScript, permettant d'exécuter des tests sur plusieurs navigateurs."
+        },
+        {
+          "terme": "Puppeteer",
+          "definition": "Bibliothèque Node.js qui fournit une API de haut niveau pour contrôler Chrome ou Chromium via le protocole DevTools."
+        },
+        {
+          "terme": "TestCafe",
+          "definition": "Outil de test end-to-end pour les applications web, permettant d'écrire des tests en JavaScript ou TypeScript."
+        },
+        {
+          "terme": "QUnit",
+          "definition": "Framework de test JavaScript utilisé par le projet jQuery."
+        },
+        {
+          "terme": "Ava",
+          "definition": "Framework de test JavaScript pour Node.js, conçu pour être rapide et simple à utiliser."
+        },
+        {
+          "terme": "Enzyme",
+          "definition": "Bibliothèque de test JavaScript pour React, permettant de tester les composants React."
+        },
+        {
+          "terme": "Sinon.js",
+          "definition": "Bibliothèque de test JavaScript pour créer des spies, stubs et mocks."
+        },
+        {
+          "terme": "Nightwatch.js",
+          "definition": "Framework de test end-to-end pour les applications web, basé sur Selenium."
+        },
+        {
+          "terme": "Protractor",
+          "definition": "Framework de test end-to-end pour les applications Angular, basé sur Selenium."
+        },
+        {
+          "terme": "Robot Framework",
+          "definition": "Framework de test d'acceptation open-source, utilisant une syntaxe de type tableur pour écrire des tests."
+        },
+        {
+          "terme": "Cucumber",
+          "definition": "Outil de test comportemental qui utilise une syntaxe de type Gherkin pour écrire des tests lisibles par les humains."
+        },
+        {
+          "terme": "RSpec",
+          "definition": "Framework de test comportemental pour Ruby."
+        },
+        {
+          "terme": "JUnit",
+          "definition": "Framework de test unitaire pour Java."
+        },
+        {
+          "terme": "NUnit",
+          "definition": "Framework de test unitaire pour .NET."
+        },
+        {
+          "terme": "PyTest",
+          "definition": "Framework de test pour Python, permettant d'écrire des tests simples et évolutifs."
+        },
+        {
+          "terme": "Unittest",
+          "definition": "Framework de test unitaire intégré à la bibliothèque standard de Python."
+        },
+        {
+          "terme": "TestNG",
+          "definition": "Framework de test pour Java, inspiré de JUnit et NUnit."
+        },
+        {
+          "terme": "xUnit",
+          "definition": "Famille de frameworks de test unitaire pour différents langages de programmation."
+        },
+        {
+          "terme": "Mockito",
+          "definition": "Framework de mock pour Java, permettant de créer des objets simulés pour les tests unitaires."
+        },
+        {
+          "terme": "Chutzpah",
+          "definition": "Outil de test JavaScript pour Visual Studio, permettant d'exécuter des tests QUnit, Jasmine et Mocha."
         }
       ]
     },
@@ -240,6 +808,58 @@
         {
           "terme": "Méthodes agiles",
           "definition": "Approches itératives et collaboratives pour faciliter le développement d’un produit ou service numérique."
+        },
+        {
+          "terme": "Lean",
+          "definition": "Méthodologie visant à maximiser la valeur pour le client tout en minimisant le gaspillage."
+        },
+        {
+          "terme": "Extreme Programming (XP)",
+          "definition": "Méthodologie Agile qui vise à améliorer la qualité du logiciel et la capacité de réponse aux besoins changeants des clients."
+        },
+        {
+          "terme": "Feature-Driven Development (FDD)",
+          "definition": "Approche Agile centrée sur les fonctionnalités, où le développement est organisé autour de la livraison de fonctionnalités spécifiques."
+        },
+        {
+          "terme": "Behavior-Driven Development (BDD)",
+          "definition": "Extension du TDD qui encourage la collaboration entre les développeurs, les QA et les non-techniques ou les parties prenantes."
+        },
+        {
+          "terme": "Test-Driven Development (TDD)",
+          "definition": "Méthodologie de développement où les tests sont écrits avant le code fonctionnel."
+        },
+        {
+          "terme": "Pair Programming",
+          "definition": "Pratique de développement où deux développeurs travaillent ensemble sur le même code, un écrit le code tandis que l'autre le revoit en temps réel."
+        },
+        {
+          "terme": "Continuous Delivery",
+          "definition": "Pratique de développement logiciel où le code est produit de manière à pouvoir être déployé en production à tout moment."
+        },
+        {
+          "terme": "Continuous Deployment",
+          "definition": "Extension de la Continuous Delivery où chaque changement qui passe les tests automatisés est automatiquement déployé en production."
+        },
+        {
+          "terme": "Incremental Development",
+          "definition": "Approche de développement où le produit est conçu, implémenté et testé par petits morceaux, chaque morceau étant une partie complète du produit final."
+        },
+        {
+          "terme": "Iterative Development",
+          "definition": "Approche de développement où le produit est développé à travers des cycles répétés (itérations), chaque itération apportant des améliorations et des fonctionnalités supplémentaires."
+        },
+        {
+          "terme": "Waterfall",
+          "definition": "Méthodologie de développement séquentielle où chaque phase doit être complétée avant de passer à la suivante."
+        },
+        {
+          "terme": "RAD",
+          "definition": "Rapid Application Development : Méthodologie de développement qui met l'accent sur le développement rapide et itératif avec des prototypes."
+        },
+        {
+          "terme": "DSDM",
+          "definition": "Dynamic Systems Development Method : Cadre Agile pour la gestion de projet et le développement logiciel."
         }
       ]
     },
@@ -696,6 +1316,111 @@
                 {
                   "terme": "Méthodes agiles",
                   "definition": "Approches itératives et collaboratives pour faciliter le développement d’un produit ou service numérique."
+                }
+              ]
+            },
+            {
+              "nom": "Concepts",
+              "termes": [
+                {
+                  "terme": "API",
+                  "definition": "Application Programming Interface : Interface permettant à deux systèmes informatiques de communiquer entre eux."
+                },
+                {
+                  "terme": "REST",
+                  "definition": "Representational State Transfer : Style d'architecture pour les API utilisant les méthodes HTTP (GET, POST, etc.)."
+                },
+                {
+                  "terme": "GraphQL",
+                  "definition": "Langage de requête pour les API et environnement d'exécution pour exécuter ces requêtes en utilisant un système de types pour définir la capacité de ces requêtes."
+                },
+                {
+                  "terme": "Microservices",
+                  "definition": "Architecture logicielle où une application est composée de petits services indépendants qui communiquent entre eux, souvent via des API."
+                },
+                {
+                  "terme": "Container",
+                  "definition": "Environnement isolé pour exécuter des applications, permettant une portabilité et une gestion simplifiée des dépendances."
+                },
+                {
+                  "terme": "Serverless",
+                  "definition": "Modèle d'exécution dans lequel le fournisseur de cloud gère automatiquement l'infrastructure serveur, permettant aux développeurs de se concentrer sur le code."
+                },
+                {
+                  "terme": "Cloud Computing",
+                  "definition": "Utilisation de serveurs distants sur Internet pour stocker, gérer et traiter des données, plutôt que sur un serveur local ou un ordinateur personnel."
+                },
+                {
+                  "terme": "DevOps",
+                  "definition": "Pratiques combinant le développement logiciel (Dev) et les opérations informatiques (Ops) pour améliorer la collaboration et la productivité en automatisant les processus de livraison de logiciels et d'infrastructure."
+                },
+                {
+                  "terme": "CI/CD",
+                  "definition": "Continuous Integration/Continuous Deployment : Pratiques visant à automatiser les étapes de l'intégration, des tests et du déploiement du code pour améliorer la qualité et la rapidité de livraison."
+                },
+                {
+                  "terme": "Agile",
+                  "definition": "Méthodologie de développement logiciel basée sur des itérations courtes et une collaboration étroite entre les équipes."
+                },
+                {
+                  "terme": "Scrum",
+                  "definition": "Framework Agile pour la gestion de projet, basé sur des sprints et des réunions régulières pour améliorer la collaboration et la productivité."
+                },
+                {
+                  "terme": "Kanban",
+                  "definition": "Méthodologie Agile utilisant un tableau visuel pour gérer le flux de travail et améliorer l'efficacité."
+                },
+                {
+                  "terme": "Lean",
+                  "definition": "Méthodologie visant à maximiser la valeur pour le client tout en minimisant le gaspillage."
+                },
+                {
+                  "terme": "Extreme Programming (XP)",
+                  "definition": "Méthodologie Agile qui vise à améliorer la qualité du logiciel et la capacité de réponse aux besoins changeants des clients."
+                },
+                {
+                  "terme": "Feature-Driven Development (FDD)",
+                  "definition": "Approche Agile centrée sur les fonctionnalités, où le développement est organisé autour de la livraison de fonctionnalités spécifiques."
+                },
+                {
+                  "terme": "Behavior-Driven Development (BDD)",
+                  "definition": "Extension du TDD qui encourage la collaboration entre les développeurs, les QA et les non-techniques ou les parties prenantes."
+                },
+                {
+                  "terme": "Test-Driven Development (TDD)",
+                  "definition": "Méthodologie de développement où les tests sont écrits avant le code fonctionnel."
+                },
+                {
+                  "terme": "Pair Programming",
+                  "definition": "Pratique de développement où deux développeurs travaillent ensemble sur le même code, un écrit le code tandis que l'autre le revoit en temps réel."
+                },
+                {
+                  "terme": "Continuous Delivery",
+                  "definition": "Pratique de développement logiciel où le code est produit de manière à pouvoir être déployé en production à tout moment."
+                },
+                {
+                  "terme": "Continuous Deployment",
+                  "definition": "Extension de la Continuous Delivery où chaque changement qui passe les tests automatisés est automatiquement déployé en production."
+                },
+                {
+                  "terme": "Incremental Development",
+                  "definition": "Approche de développement où le produit est conçu, implémenté et testé par petits morceaux, chaque morceau étant une partie complète du produit final."
+                },
+                {
+                  "terme": "Iterative Development",
+                  "definition": "Approche de développement où le produit est développé à travers des cycles répétés (itérations), chaque itération apportant des améliorations et des fonctionnalités supplémentaires."
+                },
+                {
+                  "terme": "Waterfall",
+                  "definition": "Méthodologie de développement séquentielle où chaque phase doit être complétée avant de passer à la suivante."
+                },
+                {
+                  "terme": "RAD",
+                  "definition": "Rapid Application Development : Méthodologie de développement qui met l'accent sur le développement rapide et itératif avec des prototypes."
+                },
+                {
+                  "terme": "DSDM",
+                  "definition": "Dynamic Systems Development Method : Cadre Agile pour la gestion de projet et le développement logiciel."
                 }
               ]
             },
